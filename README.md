@@ -1,1 +1,4 @@
 # festyling
+
+- styled-components
+- tailwind
